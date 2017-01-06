@@ -12,3 +12,4 @@ die("Fallo la conexión a la Base de Datos: " . mysql_error());
 }
 
 ```
+![alt tag](images/1.png)
